@@ -1,7 +1,2 @@
-# K1-Linear-Rail-Gantry
-Linear Rail Gantry Conversion Mod for Creality K1 Series Printers
+# Page
 
-Assembly Guides: https://docs.google.com/document/d/1SqA1cdwyPaCVLiMiMXChLrdn-k710LjkxOklKdxjZtY/
-
-Affiliate Storefronts:
-[PD3D (USA)](https://peedee3d.com/collections/all-products/products/linear-rail-gantry-kit-for-k1-series-by-bootycall-jones)  |  Meltbro (EU)  |  DREMC (AU)
