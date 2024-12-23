@@ -4,6 +4,8 @@ Linear Rail Gantry Conversion Mod for Creality K1 Series Printers
 
 Assembly Guides: https://docs.google.com/document/d/1SqA1cdwyPaCVLiMiMXChLrdn-k710LjkxOklKdxjZtY/
 
+[Join my Discord!](https://discord.gg/gRDr2ggNuM)
+
 [![YouTube](http://i.ytimg.com/vi/lZPC6AAUhGk/hqdefault.jpg)](https://www.youtube.com/watch?v=lZPC6AAUhGk)
 
 Affiliate Storefronts:
