@@ -10,4 +10,4 @@ Assembly Guides: https://docs.google.com/document/d/1SqA1cdwyPaCVLiMiMXChLrdn-k7
 
 Affiliate Storefronts:
 
-[PD3D (USA)](https://peedee3d.com/collections/all-products/products/linear-rail-gantry-kit-for-k1-series-by-bootycall-jones)  |  [Meltbro (EU)](https://meltbro.de/linear-rail-gantry-conversion-mod-fuer-creality-k1-k1c-k1-max-by-bootycall-jones-tlace17-schiene-upgrade.html) |  DREMC (AU)
+[PD3D (USA)](https://peedee3d.com/collections/k1/products/k1-max-k1c-linear-rail-gantry-kit-configurator)  |  [Meltbro (EU)](https://meltbro.de/linear-rail-gantry-conversion-mod-fuer-creality-k1-k1c-k1-max-by-bootycall-jones-tlace17-schiene-upgrade.html) |  [DREMC (AU)](https://store.dremc.com.au/products/linear-rail-gantry-kit-for-k1-k1-max-series?_pos=5&_sid=8e40b808b&_ss=r)
